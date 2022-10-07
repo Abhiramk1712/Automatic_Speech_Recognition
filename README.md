@@ -5,4 +5,4 @@
 
 Code-1: Coverting Speech to Text in Real-Time
 
-Code-2: Converting Audio File to Text
+Code-2: Converting Audio File to Text (using .wav file)
